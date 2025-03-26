@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RRERF
 - 👀 I’m interested in Networking, IoT, 
-- 🌱 I’m currently learning CCNA, CCNP.
+- 🌱 I’m a MAS IT Network Manager.
 - 📫 How to reach me GitHUB.
 
 <!---
